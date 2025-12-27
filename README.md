@@ -159,6 +159,6 @@ It does not provide financial or investment advice.
 
 👤 Author
 
-Tousif Azim
+Tousif Azim & Shreejita Biswas
 GitHub: [Tousif18](https://github.com/Tousif18)
       & [Shreejita](https://github.com/Shreejita-Biswas)
