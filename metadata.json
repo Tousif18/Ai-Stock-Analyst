@@ -1,0 +1,5 @@
+{
+  "name": "AI Stock Analyst (Gemini)",
+  "description": "A professional-grade stock analysis and recommendation tool powered by Gemini 3. Provide stock fundamentals to receive deep reasoning on valuation, risks, and a final investment verdict.",
+  "requestFramePermissions": []
+}
