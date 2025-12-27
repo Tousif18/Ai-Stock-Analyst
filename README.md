@@ -80,9 +80,9 @@ Ai-Stock-Analyst/
 🔑 Environment Setup
 
 Create a file named .env.local in the root directory:
-
+```
 GEMINI_API_KEY=your_gemini_api_key_here
-
+```
 
 This ensures:
 
@@ -98,20 +98,21 @@ Prerequisites
 Node.js (LTS version)
 
 Steps
+```
 npm install
 npm run dev
-
+```
 
 Open in browser:
-
+```
 http://localhost:3000
-
+```
 🧪 Example Usage
 
 Input:
-
+```
 AAPL
-
+```
 
 Output:
 
