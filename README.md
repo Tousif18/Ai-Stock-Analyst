@@ -67,7 +67,7 @@ Language: JavaScript / TypeScript
 Environment Management: .env.local
 
 📦 Project Structure (High-Level)
-'''
+```
 Ai-Stock-Analyst/
 │
 ├── app/              # Application pages
@@ -76,7 +76,7 @@ Ai-Stock-Analyst/
 ├── package.json      # Project configuration
 ├── README.md         # Project documentation
 └── .env.local        # Environment variables (local only)
-'''
+```
 🔑 Environment Setup
 
 Create a file named .env.local in the root directory:
